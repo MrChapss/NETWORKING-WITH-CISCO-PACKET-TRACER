@@ -1,2 +1,4 @@
 # Do not include the .odt# file 
 *.odt#
+Jeremy-IT-Lab-Part-1/*/*.odt
+MY-CUSTOM-TOPOLOGY-VERSION/DOCUMENTED-TOPOLOGIES/IGP-TOPOLOGY/*.odt
